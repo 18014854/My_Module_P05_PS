@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="c346">C346 Android Programming</string>
+    <string name="c349">C349 iPad Programming</string>
+    <string name="btnBack">back</string>
+</resources>
